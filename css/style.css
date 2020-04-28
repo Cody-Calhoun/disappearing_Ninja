@@ -1,0 +1,63 @@
+.first_Ninja {
+    height: 200px;
+    width: 200px;
+    display: inline-block;  
+}
+
+.second_Ninja{
+    height: 200px;
+    width: 200px;
+    display: inline-block; 
+}
+
+.third_Ninja {
+    height: 200px;
+    width: 200px;
+    display: inline-block; 
+}
+
+.fourth_Ninja {
+    height: 200px;
+    width: 200px;
+    display: inline-block; 
+}
+
+.fifth_Ninja{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+
+.sixth_Ninja{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+.seventh_Ninja {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+
+.eighth_Ninja {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+
+img{
+    width: 200px;
+}
+
+button {
+    width: 60px;
+    background-color: grey;
+    color: white;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    padding: 10 px;
+}
+
+/* I also full realize I could have created a div with an id #container and simply put div instead of giving each a class.
+Then i could have just targeted the #container div and changed all.  */
